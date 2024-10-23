@@ -1,0 +1,45 @@
+[
+  {
+    "productName": "Elbise 1",
+    "productVariantName": "Elbise 1 Kırmızı S",
+    "productAttributes": [
+      {
+        "name": "Renk",
+        "value": "Kırmızı"
+      },
+      {
+        "name": "Beden",
+        "value": "S"
+      }
+    ]
+  },
+  {
+    "productName": "Elbise 1",
+    "productVariantName": "Elbise 1 Kırmızı M",
+    "productAttributes": [
+      {
+        "name": "Renk",
+        "value": "Kırmızı"
+      },
+      {
+        "name": "Beden",
+        "value": "M"
+      }
+    ]
+  },
+  {
+    "productName": "Elbise 1",
+    "productVariantName": "Elbise 1 Kırmızı L",
+    "productAttributes": [
+      {
+        "name": "Renk",
+        "value": "Kırmızı"
+      },
+      {
+        "name": "Beden",
+        "value": "L"
+      }
+    ]
+  }
+]
+
